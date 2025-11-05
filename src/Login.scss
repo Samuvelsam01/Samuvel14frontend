@@ -1,0 +1,30 @@
+// .welcome{
+//     color: aqua;
+// }
+// .location{
+//     width: 50px;
+//     height: 50px;
+// }
+// .cart{
+// width: 50px;
+// height: 50px;
+// }  
+//  .total-wrap{
+//      background-image: url(./Images/wallpaper.jpg);
+//      width: 1000px;
+//      height: 100vh;
+//      background-repeat: no-repeat;
+//      background-size: cover;
+//  }
+
+.nav-wrap{
+    display: flex;
+    justify-content: space-around;
+    background-color: cadetblue;
+    padding: 10px;
+    color: white;
+    position:fixed;
+    width: 100%;
+}
+
+    
